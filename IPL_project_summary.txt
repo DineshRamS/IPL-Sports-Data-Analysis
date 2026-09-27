@@ -1,0 +1,52 @@
+
+IPL SPORTS DATA ANALYSIS – PROJECT SUMMARY
+===========================================
+
+PROJECT: IPL 2026 Sports Data Analysis
+
+DATASET
+-------
+The supplied dataset contains IPL 2026 match and player data.
+The match data covers 39 matches from 28 March 2026 to
+27 April 2026.
+
+ANALYSIS COMPLETED
+------------------
+1. Data quality check
+2. Top run scorer analysis
+3. Strike rate analysis
+4. Team win rate analysis
+5. Player performance analysis
+6. Runs vs strike rate comparison
+7. Team win rate visualization
+8. Top 10 run scorers visualization
+9. Top 10 strike rate visualization
+10. KPI summary
+11. Short business/sports insights
+
+KEY RESULTS
+-----------
+Top Run Scorer: Abhishek Sharma
+Runs: 380
+
+Highest Strike Rate Player: Priyansh Arya
+Strike Rate: 249.01
+
+Highest Team Win Rate: Punjab Kings
+Win Rate: 85.71%
+
+DATASET LIMITATION
+------------------
+The supplied match data contains only the 2026 IPL season.
+Therefore, cross-season player performance comparison could not
+be performed from this dataset.
+
+OUTPUTS
+-------
+Top 10 run scorers
+Top 10 strike rate
+Team win rate
+Player performance
+KPI summary
+Project insights
+Visualizations

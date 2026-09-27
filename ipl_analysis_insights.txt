@@ -1,0 +1,38 @@
+
+IPL 2026 SPORTS DATA ANALYSIS – KEY INSIGHTS
+=============================================
+
+1. Dataset Overview
+The supplied dataset contains IPL 2026 match and player information.
+The match data covers 39 matches from
+28 March 2026 to
+27 April 2026.
+
+2. Top Run Scorer
+Abhishek Sharma recorded the highest runs with
+380 runs for SRH.
+
+3. Highest Strike Rate
+Priyansh Arya recorded the highest strike rate
+of 249.01, with
+254 runs from
+102 balls.
+
+4. Team Win Rate
+Punjab Kings recorded the highest calculated win rate
+of 85.71% in the supplied points table.
+
+5. Player Performance
+Player performance was analyzed using runs, batting average,
+strike rate, balls faced, fours, and sixes.
+
+6. Season Analysis
+The supplied match data contains only the 2026 IPL season.
+Therefore, a cross-season player performance comparison could not
+be performed from this dataset.
+
+7. Business / Sports Insight
+Runs, strike rate, and team win rate provide different perspectives
+of performance. Combining these metrics gives a broader view of
+individual player contribution and team performance.
+
